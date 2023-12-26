@@ -10,7 +10,8 @@ python>=3.6
 pytorch>=0.4
 
 ## Experimental Configuration
-I5-13400  NVIDIA GeForce RTX 3060 Ti
+CPU:I5-13400  
+Graphics Card:NVIDIA GeForce RTX 3060 Ti
 ## Run
 
 The MLP and CNN models are produced by:
